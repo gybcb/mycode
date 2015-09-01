@@ -1,0 +1,8 @@
+<resources>
+    <string id="AppName">FlyWatchFace</string>
+
+    <bitmap id="LauncherIcon" filename="images/launcher_icon.png" />
+    <fonts>
+    	<font id="DigitalFont" filename="fonts/Digital.fnt" filter="0123456789:" />
+    </fonts>
+</resources>
